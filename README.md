@@ -1,4 +1,4 @@
-# 🚀 Bem-vindo ao universo do SrNaja!
+## <div align="center">🎮 Bem-vindo ao universo do SrNaja! 🎮</div>
 
 <div align="center">
 
@@ -16,9 +16,6 @@
 
 <div align="center">
   
-### 🎮 **Jogue o Snake Game direto no README!** 
-*Use as setas do teclado para jogar*
-
 [![Snake Game](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)](https://github.com/platane/snk)
 
 </div>
